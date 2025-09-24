@@ -1,0 +1,3 @@
+pip install langchain
+pip install dotenv
+pip install langchain_openai
